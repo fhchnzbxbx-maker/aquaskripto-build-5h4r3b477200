@@ -1,0 +1,4 @@
+name: AquaPlugin
+version: 1.0.0
+main: com.aquaskripto.aquaplugin.AquaPlugin
+api-version: 1.20
